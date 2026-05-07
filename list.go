@@ -44,5 +44,7 @@ func main() {
 
 	l.AddLeaf(7)
 	fmt.Println(l)
+
+	fmt.Println(l.Leaf())
 }
 
